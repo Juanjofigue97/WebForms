@@ -33,8 +33,7 @@ function adddGS(){
 
 
     
-document.getElementById("btn2").addEventListener("click",adddGS)
+document.getElementById("btn2").addEventListener("click",adddGS);
 
-document.getElementById("btn").addEventListener("click",testGS)
+document.getElementById("btn").addEventListener("click",testGS);
 
-// https://script.google.com/macros/s/AKfycbyP3Xu4-PeAAZebALYT9Do3V4nFC8chxzcw3yBOm6cx9Kw5k_A/exec
